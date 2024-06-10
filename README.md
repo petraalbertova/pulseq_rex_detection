@@ -1,5 +1,5 @@
-# Rotary Excitation of non-sinusoidal pulsed magnetic fields: Towards non-invasive direct detection of cardiac conduction
-Albertova1,2, M. Gram1,2, P. M. Blaimer3, W.R. Bauer1, P.M. Jakob2, P. Nordbeck1  
+# Rotary Excitation of non-sinusoidal pulsed magnetic fields: Toward noninvasive direct detection of cardiac conduction
+Albertova<sup>1,2</sup>, M. Gram<sup>1,2</sup>, P. M. Blaimer<sup>3</sup>, W.R. Bauer<sup>1</sup>, P.M. Jakob<sup>2</sup>, P. Nordbeck<sup>1</sup>  
 1 Department of Internal Medicine I, University Hospital Würzburg, Würzburg, Germany  
 2 Experimental Physics 5, University of Würzburg, Würzburg, Germany  
 3 Fraunhofer Institute for Integrated Circuits IIS, Würzburg, Germany  
