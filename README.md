@@ -3,6 +3,7 @@ Albertova<sup>1,2</sup>, M. Gram<sup>1,2</sup>, P. M. Blaimer<sup>3</sup>, W.R. 
 <sup>1</sup> Department of Internal Medicine I, University Hospital Würzburg, Würzburg, Germany  
 <sup>2</sup> Experimental Physics 5, University of Würzburg, Würzburg, Germany  
 <sup>3</sup> Fraunhofer Institute for Integrated Circuits IIS, Würzburg, Germany  
+doi: 10.1002/mrm.30190
 
 # Address for correspondence:
 Petra Albertova, University of Würzburg,  
