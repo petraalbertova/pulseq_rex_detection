@@ -21,7 +21,7 @@ This folder contains exemplary Pulseq code for the detection of sinusoidal or no
 # Software requirements
 - we used Matlab R2022a
 - git clone https://github.com/pulseq/pulseq (our version was pulled on 20.01.2024)
-- git clone https://github.com/petraalbertova/qrs_rex
+- git clone https://github.com/petraalbertova/pulseq_rex_detection
 - optional
 	- we used the variable density spiral design functions provided by Brian Hargreaves; if you want to change the spiral readouts provided in this project, pull the original code from: http://mrsrl.stanford.edu/~brian/vdspiral/vdspiral.tar.gz
 	- we used Shinnar–Le Roux (SLR) optimized pulses; if you want to change parameters, install the SIGPY package: pip install sigpy
